@@ -1,4 +1,4 @@
-# Metaverse-Sentiment-Analysis
+# Metaverse-Sentiment-Analysis (BYUN)
 
 The metaverse has piqued entrepreneur Mark Zuckerberg's interest, and ever since Facebook changed it's name to Meta in October of 2021, Mark has started obsessing about the metaverse, and saw it as the next big thing in the world of tech. However, the public's response was very underwhelming judging from responses found on social media platforms like twitter and youtube, though there weren't a whole lot of credible and reliable news sources that can be cited to back up this fact. One newsource says that last October in 2022, Meta's stock prices plummeted by 67 percent compared to prices from a year ago. Even after taking into account a huge hit on stock prices with every big tech companies in general, the drop in Meta stock prices were almost twice as much as other tech giants. 
 
